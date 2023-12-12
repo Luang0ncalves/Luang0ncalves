@@ -21,9 +21,8 @@ Olá, eu sou Luan Gonçalves 😀
   ##
  
 <div> 
-  <a href="https://www.instagram.com/luan.g0ncalvess/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:luan.goncalvesprod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luangoncalvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:luan.goncalvesprod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://drive.google.com/file/d/1uEsfB-7nFcxzSpHI4Zssg3u8Gn6TPFQ1/view?usp=drive_link"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" target="_blank"/>
           
 </div>
