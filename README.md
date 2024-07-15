@@ -1,6 +1,12 @@
-Olá, eu sou Luan Gonçalves 😀
-- 📊 Formação em Analista de Dados / BI
-- 🧑‍🔬 Tecnólogo em Ciência de Dados
+<h1 align="center">Oi 👋, Eu sou Luan Gonçalves</h1>
+<h3 align="center">Apaixonado por Ciência e Análise de dados no mundo digital</h3>
+
+- 📊 Curso de Formação em Analista de Dados / BI
+- 🧑‍🔬 Tecnólogo em Ciência de Dados pela Faculdade Descomplica
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados
+- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+-  💬 Me pergunte sobre **SQL, Microsoft Power Plataform, Power BI, Excel e Python**
+- 📫Você me acha através do e-mail **luan.souza.goncalves@gmail.com**
 - 😜 Pronome: ele/dele
 
 <div>
