@@ -9,11 +9,8 @@
 - 📫Você me acha através do e-mail **luan.souza.goncalves@gmail.com**
 - 😜 Pronome: ele/dele
 
-<div>
-  <a href="https://github.com/Luang0ncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luang0ncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luang0ncalves&layout=compact&langs_count=16&theme=dark"/>   
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luang0ncalves&show_icons=true&theme=dark&include_all_commits=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luang0ncalves&layout=compact&theme=dark)
 
 ##
 <div style="display: inline_block"><br>
