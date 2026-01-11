@@ -35,7 +35,7 @@ Atuo no **Planejamento Comercial e Pricing**, integrando dados de diversas fonte
 ### 📊 Desempenho & Tecnologias
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luang0ncalves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luang0ncalves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luang0ncalves&layout=compact&theme=algolia" />
 </div>
 
