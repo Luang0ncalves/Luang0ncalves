@@ -2,7 +2,7 @@
   <img src="https://github.com/Luang0ncalves.png" align="left" width="150" style="border-radius: 20px; margin-right: 20px;" />
   <h1 align="left">Olá, eu sou o Luan Gonçalves! 👋</h1>
   <p align="left">
-    <b>Analista de Pricing e Planejamento Comercial Jr. | Especialista em Automação de Dados e BI</b><br>
+    <b>Analista de Pricing e Planejamento Comercial | Automação de Dados, BI e Pipelines</b><br>
   </p>
 </p>
 <div align="left">
@@ -23,11 +23,11 @@
 ---
 
 ### 🎯 Sobre Mim
-Atuo no **Planejamento Comercial e Pricing**, integrando dados de diversas fontes para gerar inteligência de mercado. Especialista em construir pipelines de dados automatizados (RPA/ETL) que otimizam processos decisórios e dashboards de alta performance. 
+Atuo no **Planejamento Comercial e Pricing**, integrando dados de diversas fontes para gerar inteligência de mercado. Experiência na construção de pipelines de dados automatizados (RPA / ETL), apoiando decisões estratégicas e na construção de dashboards e indicadores de desempenho. 
 
 * 📊 **Formação:** Analista de Dados / BI e Graduado em Ciência de Dados.
-* 🔭 **Foco Atual:** Automação de extrações complexas de ERPs, fluxos de dados no n8n/Pentaho e modelos de Machine Learning.
-* 💬 Expertise: SQL Server (BigQuery), R (Tidyverse), Python (Pandas/Spark/Automations), Apache Airflow, Power Platform e Excel (VBA/Power Query).
+* 🔭 **Foco Atual:** Pipelines de dados automatizados, Machine Learning e Criação de Agentes de IA.
+* 💬 **Expertise:** Power BI, SQL Server / BigQuery, R (Tidyverse), Python (Pandas / Spark / PyAutoGUI / Selenium), Apache Airflow, N8N, Power Platform e Excel (VBA / Power Query).
 * 📫 **Contato:** [luan.goncalvesprod@gmail.com](mailto:luan.goncalvesprod@gmail.com)
 
 ---
